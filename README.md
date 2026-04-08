@@ -1,2 +1,2 @@
 # Github-Tutorial-for-Devops
-Github tutorial
+Github tutorial readme created in Github
